@@ -1,0 +1,13 @@
+{
+  "name": "sequelize-sqlite-practice",
+  "version": "1.0.0",
+  "description": "Практическая работа: Sequelize + SQLite",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "sequelize": "^6.0.0",
+    "sqlite3": "^5.0.0"
+  }
+}
